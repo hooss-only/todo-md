@@ -1,7 +1,5 @@
 #include "usage.h"
 
-#define PROGRAM_NAME "todo"
-
 void handle_args(int argc, char* argv[]);
 
 int main(int argc, char* argv[]) {
